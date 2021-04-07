@@ -486,7 +486,7 @@ textarea.form-control{ height: auto;}
 	.stui-page li.page-item a{ padding: 5px 15px;}
 	
 	/* extra */
-	.stui-extra{right:15px;bottom:15px}
+	.stui-extra{right:15px;bottom:140px}
 	.stui-extra li{padding:8px 0 0}
 	.stui-extra li a,.stui-extra li span{width:35px;height:35px;line-height:35px;font-size:16px}
 	.stui-extra li a .icon,.stui-extra li span .icon{font-size:16px}
